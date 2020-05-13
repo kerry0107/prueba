@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
 <?php
 include 'cn.php';
 //Recibir los datos y almacenarlos en variables
@@ -26,3 +33,6 @@ if(!$resultado){
 mysqli_close($conexion);
 
 ?>
+    
+</body>
+</html>
