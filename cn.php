@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
 <?php
 
 $conexion = @mysqli_connect("sql10.freesqldatabase.com", "sql10340121", "bDaTIs9ieG", "sql10340121");
@@ -9,3 +15,6 @@ $conexion = @mysqli_connect("sql10.freesqldatabase.com", "sql10340121", "bDaTIs9
 //}
 
 ?>
+ 
+</body>
+</html>
