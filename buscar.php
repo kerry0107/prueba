@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
 <?php
 
 $conexion = mysqli_connect("localhost", "root", "", "venta_online");
@@ -50,3 +56,6 @@ $salida.="no hay datos :(";
 echo $salida;
 $mysqli->close();
 ?>
+
+</body>
+</html>
